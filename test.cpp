@@ -4,6 +4,7 @@ int main() {
 int x,i,num=0;
 
     cout<<"Adad Khod Ra Vared Konid!\n";
+    cout<<"slm";
     cin>>x;
 
     if(x==1) {
